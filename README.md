@@ -2,6 +2,7 @@ Chaichat Messenger
 ====================
 
 Chitchat is a messaging application created on PHP.
+```
 it has features like:
 1. Room Create
 2. Room Chat
@@ -12,3 +13,4 @@ it has features like:
 7. Create Moderator or Demod for room.
 8. Kick or Ban user from room
 9. ETC.
+```
